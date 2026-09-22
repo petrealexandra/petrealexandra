@@ -66,4 +66,4 @@ I am a Computer Science student and software developer with experience in backen
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/alexandrapetre94">alexandrapetre94</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/petrealexandra">petrealexandra</a></i></p>
