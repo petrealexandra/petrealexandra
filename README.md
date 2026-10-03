@@ -59,11 +59,5 @@ I am a Computer Science student and software developer with experience in backen
   <a href="mailto:alepetre9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=alexandrapetre94&layout=compact&theme=tokyonight&title_color=f2a6cf&icon_color=f2a6cf&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/petrealexandra">petrealexandra</a></i></p>
